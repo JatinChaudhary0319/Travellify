@@ -31,14 +31,14 @@ const Download = () => (
         </div>
         <div className="download-links">
           <a
-            href="https://itunes.apple.com/us/app/tourlandish/id899327000?ls=1&mt=8"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
           >
             <img src={Appstoreimg} alt="Apple Store" className="store" />
           </a>
           <a
-            href="https://play.google.com/store/apps/details?id=com.tourlandish.chronos&hl=en"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
           >
