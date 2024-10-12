@@ -40,7 +40,7 @@
 Travellify is a web application developed using React.js and vite that empowers users to manage their travel experiences efficiently. By leveraging the power of React for the frontend and Bootstrap for styling, we’ve created an interactive and visually appealing user interface.
 
 ## Live Demo Link:
-You can visit and have a look <a href="https://668a41987b536c9a59070d34--calm-peony-d93948.netlify.app/" target="_blank" rel="noopener noreferrer">here</a>.
+You can visit and have a look <a href="https://calm-peony-d93948.netlify.app/" target="_blank" rel="noopener noreferrer">here</a>.
 
 
 ## Home Page
